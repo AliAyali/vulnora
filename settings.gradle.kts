@@ -28,4 +28,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "vulnora"
 include(":app")
- 
+include(":core:designsystem")

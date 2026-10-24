@@ -33,6 +33,8 @@ android {
 }
 
 dependencies {
+    implementation(projects.core.designsystem)
+
     coreLibraryDesugaring(libs.android.desugar.jdk.libs)
 
     implementation(libs.androidx.hilt.navigation.compose)
