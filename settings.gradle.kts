@@ -29,3 +29,5 @@ dependencyResolutionManagement {
 rootProject.name = "vulnora"
 include(":app")
 include(":core:designsystem")
+include(":core:navigation")
+include(":feature:home")
