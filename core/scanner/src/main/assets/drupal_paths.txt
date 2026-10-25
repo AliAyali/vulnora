@@ -1,0 +1,22 @@
+# Vulnora curated paths from the supplied source file
+sites/default/private/files/backup_migrate/scheduled/test.txt
+bitrix/components/bitrix/map.yandex.search/settings/settings.php
+bitrix/settings.php
+bitrix/settings.php.bak
+settings.php
+settings.php.bak
+settings.php.dist
+settings.php.old
+settings.php.save
+settings.php.swp
+settings.php.txt
+sites/all/libraries/README.txt
+sites/all/modules/README.txt
+sites/all/themes/README.txt
+update.php
+changelog.txt
+forum/install/install.php
+install.php
+wp-admin/install.php
+Readme.txt
+sites/README.txt

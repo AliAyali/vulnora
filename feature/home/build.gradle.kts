@@ -15,6 +15,9 @@ android {
 }
 
 dependencies {
+    implementation(projects.core.model)
+    implementation(projects.core.domain)
+
     implementation(libs.androidx.hilt.navigation.compose)
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)

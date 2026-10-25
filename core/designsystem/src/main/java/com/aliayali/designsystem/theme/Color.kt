@@ -2,42 +2,26 @@ package com.aliayali.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Brand
-internal val Primary = Color(0xFF2563EB)
-internal val OnPrimary = Color(0xFFFFFFFF)
-
-internal val PrimaryContainer = Color(0xFFDBEAFE)
-internal val OnPrimaryContainer = Color(0xFF1E3A8A)
-
-// Light theme
-internal val LightBackground = Color(0xFFF8FAFC)
-internal val LightOnBackground = Color(0xFF0F172A)
-
+internal val Primary = Color(0xFF00BFA5)
+internal val OnPrimary = Color(0xFF002D28)
+internal val PrimaryContainer = Color(0xFFD0FAF2)
+internal val OnPrimaryContainer = Color(0xFF00574C)
+internal val LightBackground = Color(0xFFF5F8FC)
+internal val LightOnBackground = Color(0xFF101828)
 internal val LightSurface = Color(0xFFFFFFFF)
-internal val LightOnSurface = Color(0xFF0F172A)
-
-internal val LightSurfaceVariant = Color(0xFFF1F5F9)
-internal val LightOnSurfaceVariant = Color(0xFF475569)
-
-internal val LightOutline = Color(0xFFCBD5E1)
-
-// Dark theme
-internal val DarkBackground = Color(0xFF0B1120)
-internal val DarkOnBackground = Color(0xFFF1F5F9)
-
-internal val DarkSurface = Color(0xFF111827)
-internal val DarkOnSurface = Color(0xFFF1F5F9)
-
-internal val DarkSurfaceVariant = Color(0xFF1E293B)
-internal val DarkOnSurfaceVariant = Color(0xFFCBD5E1)
-
-internal val DarkOutline = Color(0xFF475569)
-
-// Status colors
+internal val LightOnSurface = Color(0xFF101828)
+internal val LightSurfaceVariant = Color(0xFFEAF0F6)
+internal val LightOnSurfaceVariant = Color(0xFF526174)
+internal val LightOutline = Color(0xFFC7D2E0)
+internal val DarkBackground = Color(0xFF080D18)
+internal val DarkOnBackground = Color(0xFFEAF3FA)
+internal val DarkSurface = Color(0xFF101827)
+internal val DarkOnSurface = Color(0xFFEAF3FA)
+internal val DarkSurfaceVariant = Color(0xFF19263A)
+internal val DarkOnSurfaceVariant = Color(0xFFB6C4D5)
+internal val DarkOutline = Color(0xFF40516A)
 internal val Success = Color(0xFF16A34A)
-
 internal val Error = Color(0xFFDC2626)
 internal val OnError = Color(0xFFFFFFFF)
-
 internal val ErrorContainer = Color(0xFFFEE2E2)
 internal val OnErrorContainer = Color(0xFF7F1D1D)
